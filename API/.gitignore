@@ -1,0 +1,47 @@
+# Temporary files and OS-specific files
+*.swp
+*.*~
+.DS_Store
+*.pyc
+
+# NuGet package artifacts
+nupkg/
+*.nupkg
+
+# IDE settings (Visual Studio Code, Rider, Fleet, etc.)
+.vscode/*
+!.vscode/settings.json      # Keep team-shared settings
+.idea/
+.fleet/
+.cr/
+
+# Visual Studio folder
+.vs/
+
+# User-specific solution files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Sensitive configuration (e.g., secrets and connection strings)
+appsettings.Development.json
+
+# Allow Entity Framework Core Migrations folder
+!**/Migrations/
