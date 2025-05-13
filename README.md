@@ -3,6 +3,7 @@
 An interactive blog/news platform powered by **ASP.NET Core 9**, featuring a gamified experience system and dynamic content handling.
 
 > ⚙️ This project was developed over **3 weeks** as a full-stack backend-focused build, with ongoing frontend implementation. Everything from logic design, entity mapping, XP system, to Swagger testing is crafted with learning and scalability in mind.
+---
 > ⚙️ Frontend (Next.js) development in progress — backend is complete and production-ready.
 
 ---
